@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppSuperZound</string>
+    <string name="title_header">SuperZound</string>
+    <string name="list_album">List Album</string>
+    <string name="favourite_album">Favourite Album</string>
+    <string name="name_album">Nombre de album</string>
+    <string name="artista">Name Artista</string>
+    <string name="year">Aqui viene el año</string>
+    <string name="point">Score</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
